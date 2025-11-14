@@ -1,0 +1,11 @@
+{
+  "ATTENTION": "This is an instructional file. DO NOT PASTE YOUR KEY HERE!",
+  "STEP_1": "Rename this file from 'key.json.example' to 'key.json'.",
+  "STEP_2": "Go to your Firebase Project Console.",
+  "STEP_3": "Click the Gear icon (next to 'Project Overview') -> 'Project settings'.",
+  "STEP_4": "Click the 'Service accounts' tab.",
+  "STEP_5": "Click the 'Generate new private key' button.",
+  "STEP_6": "A .json file containing your key will be downloaded.",
+  "STEP_7": "Open that downloaded file, copy its ENTIRE contents, and paste them into 'key.json', replacing these instructions.",
+  "IMPORTANT": "The 'key.json' file is secret and is listed in .gitignore. Never commit or share it publicly!"
+}
