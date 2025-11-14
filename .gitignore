@@ -1,0 +1,17 @@
+# -----------------
+# SECURITY (CRITICAL)
+# -----------------
+# Ignore all Firebase service account keys
+*.json
+
+# -----------------
+# PYTHON CACHE
+# -----------------
+__pycache__/
+*.pyc
+.env
+
+# -----------------
+# VS CODE
+# -----------------
+.vscode/
