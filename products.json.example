@@ -1,0 +1,182 @@
+[
+  {
+    "id": "Cappuccino", "type": "coffee", "category": "hot", "price": 14.00,
+    "name_pl": "Cappuccino", "name_en": "Cappuccino",
+    "description_pl": "Klasyczne włoskie cappuccino, którego nazwa nawiązuje do kapturów (cappuccio) mnichów kapucynów. Składa się z idealnej proporcji espresso, gorącego mleka i kremowej pianki. W \"Kocim Oczku\" dbamy o perfekcyjną teksturę mleka, aby każdy łyk był przyjemnością.",
+    "description_en": "A classic Italian cappuccino, its name referencing the \"cappuccio\" hoods of Capuchin friars. It consists of a perfect balance of espresso, hot milk, and creamy foam. At \"Kocie Oczku\", we ensure a perfect milk texture for a delightful sip every time."
+  },
+  {
+    "id": "Espresso", "type": "coffee", "category": "hot", "price": 10.00,
+    "name_pl": "Espresso", "name_en": "Espresso",
+    "description_pl": "Serce każdej kawy, wynalezione w Turynie w 1884 roku. Nasze espresso to intensywny, skoncentrowany napar o bogatym aromacie i trwałej cremie. Używamy starannie wyselekcjonowanych ziaren, aby dostarczyć Ci zastrzyk czystej energii i smaku.",
+    "description_en": "The heart of every coffee, invented in Turin in 1884. Our espresso is an intense, concentrated brew with a rich aroma and lasting crema. We use carefully selected beans to provide you with a shot of pure energy and flavor."
+  },
+  {
+    "id": "Latte Macchiato", "type": "coffee", "category": "hot", "price": 16.00,
+    "name_pl": "Latte Macchiato", "name_en": "Latte Macchiato",
+    "description_pl": "Po włosku \"splamione mleko\". To efektowna, trójwarstwowa kompozycja gorącego mleka, espresso i mlecznej pianki. W naszej kawiarni serwujemy je w wysokiej szklance, abyś mógł podziwiać perfekcyjne rozdzielenie warstw przed ich wymieszaniem.",
+    "description_en": "Italian for \"stained milk.\" It's a stunning three-layered composition of hot milk, espresso, and milk foam. In our café, we serve it in a tall glass so you can admire the perfect separation of layers before stirring."
+  },
+  {
+    "id": "Flat White", "type": "coffee", "category": "hot", "price": 15.00,
+    "name_pl": "Flat White", "name_en": "Flat White",
+    "description_pl": "Pochodzący z Australii lub Nowej Zelandii (spór trwa!), flat white to idealny balans między kawą a mlekiem. Dwie porcje espresso połączone z aksamitnie spienionym mlekiem (microfoam) tworzą intensywny, ale gładki napój. Idealny dla tych, którzy lubią mocniejszy smak kawy w mlecznym wydaniu.",
+    "description_en": "Originating from Australia or New Zealand (the debate continues!), the flat white is the perfect balance between coffee and milk. Two shots of espresso combined with velvety microfoam create an intense yet smooth drink. Ideal for those who love a stronger coffee taste in a milky form."
+  },
+  {
+    "id": "Americano", "type": "coffee", "category": "hot", "price": 12.00,
+    "name_pl": "Americano", "name_en": "Americano",
+    "description_pl": "Legenda głosi, że powstało podczas II wojny światowej, gdy amerykańscy żołnierze we Włoszech rozcieńczali espresso gorącą wodą. Nasze Americano to pełna filiżanka bogatej w smaku kawy, idealna dla tych, którzy wolą łagodniejszą intensywność niż espresso, ale wciąż cenią jego charakter.",
+    "description_en": "Legend says it was created during WWII when American soldiers in Italy diluted espresso with hot water. Our Americano is a full cup of rich-flavored coffee, perfect for those who prefer a milder intensity than espresso but still appreciate its character."
+  },
+  {
+    "id": "Iced Coffee", "type": "coffee", "category": "iced", "price": 16.00,
+    "name_pl": "Kawa Mrożona", "name_en": "Iced Coffee",
+    "description_pl": "Idealne orzeźwienie na ciepłe dni. Przygotowujemy ją na bazie świeżo parzonego espresso, schładzamy i serwujemy z kostkami lodu. Możesz ją personalizować, dodając mleko, syrop smakowy lub bitą śmietanę, tworząc swój ulubiony chłodzący napój.",
+    "description_en": "The perfect refreshment for warm days. We prepare it with freshly brewed espresso, chill it, and serve it over ice. You can customize it by adding milk, flavored syrup, or whipped cream to create your favorite cooling drink."
+  },
+  {
+    "id": "Espresso Macchiato", "type": "coffee", "category": "hot", "price": 11.00,
+    "name_pl": "Espresso Macchiato", "name_en": "Espresso Macchiato",
+    "description_pl": "Kolejny włoski klasyk, którego nazwa oznacza \"splamiony\" lub \"naznaczony\". To pojedyncze lub podwójne espresso z niewielką ilością spienionego mleka na wierzchu. Idealne dla tych, którzy szukają intensywności espresso, ale z delikatnym mlecznym złagodzeniem.",
+    "description_en": "Another Italian classic, its name meaning \"stained\" or \"marked.\" It's a single or double shot of espresso with a small dollop of foamed milk on top. Perfect for those seeking the intensity of espresso but with a gentle milky touch."
+  },
+  {
+    "id": "EspressoTonic", "type": "coffee", "category": "special", "price": 17.00,
+    "name_pl": "Espresso Tonic", "name_en": "Espresso Tonic",
+    "description_pl": "Nowoczesny i niezwykle orzeźwiający specjał, który podbił kawiarnie na całym świecie. Połączenie intensywnego espresso z musującym tonikiem i lodem tworzy zaskakujący, cytrusowo-kawowy smak. W \"Kocim Oczku\" serwujemy go z plasterkiem cytryny lub limonki dla podkreślenia rześkości.",
+    "description_en": "A modern and incredibly refreshing specialty that has taken the coffee world by storm. The combination of intense espresso with sparkling tonic and ice creates a surprising, citrus-coffee flavor. At \"Kocie Oczku\", we serve it with a slice of lemon or lime to enhance its crispness."
+  },
+  {
+    "id": "Cortado", "type": "coffee", "category": "hot", "price": 13.00,
+    "name_pl": "Cortado", "name_en": "Cortado",
+    "description_pl": "Pochodzący z Hiszpanii napój, którego nazwa \"cortar\" oznacza \"ciąć\". Jest to espresso \"przecięte\" niewielką ilością ciepłego, lekko spienionego mleka, co łagodzi jego kwasowość. Serwowane w małej szklaneczce, idealnie balansuje moc kawy z kremowością mleka.",
+    "description_en": "Originating from Spain, its name \"cortar\" means \"to cut.\" It's an espresso \"cut\" with a small amount of warm, lightly foamed milk, which mellows its acidity. Served in a small glass, it perfectly balances the power of coffee with the creaminess of milk."
+  },
+  {
+    "id": "IrishCoffee", "type": "coffee", "category": "special", "price": 20.00,
+    "name_pl": "Kawa po Irlandzku", "name_en": "Irish Coffee",
+    "description_pl": "Stworzona w 1943 roku, by rozgrzać pasażerów na lotnisku w Foynes. To rozgrzewający koktajl kawowy łączący gorącą czarną kawę, irlandzką whiskey, brązowy cukier i warstwę lekko ubitej śmietanki. Idealna na chłodne wieczory, serwowana z szacunkiem dla tradycji.",
+    "description_en": "Created in 1943 to warm passengers at Foynes Airport. This warming coffee cocktail combines hot black coffee, Irish whiskey, brown sugar, and a layer of lightly whipped cream. Perfect for chilly evenings, served with respect for tradition."
+  },
+  {
+    "id": "NewYorkCheesecake", "type": "pastry", "category": "cake", "price": 18.00,
+    "name_pl": "Sernik Nowojorski", "name_en": "New York Cheesecake",
+    "description_pl": "Symbol Nowego Jorku, znany ze swojej gęstej, bogatej i kremowej konsystencji. Wypiekany na spodzie z ciasteczek graham, nasz sernik jest idealnie gładki. Serwujemy go klasycznie lub z musem z owoców leśnych, który doskonale przełamuje jego słodycz.",
+    "description_en": "A symbol of New York, known for its dense, rich, and creamy texture. Baked on a graham cracker crust, our cheesecake is perfectly smooth. We serve it classic style or with a berry coulis that perfectly cuts through its sweetness."
+  },
+  {
+    "id": "ChocolateLavaCake", "type": "pastry", "category": "cake", "price": 19.00,
+    "name_pl": "Lava Cake", "name_en": "Chocolate Lava Cake",
+    "description_pl": "Czekoladowe marzenie, znane również jako \"fondant au chocolat\". To małe ciastko z chrupiącą skórką i płynnym, gorącym wnętrzem. W \"Kocim Oczku\" podajemy je na ciepło, często z gałką lodów waniliowych, co tworzy niezapomniany kontrast temperatur.",
+    "description_en": "A chocolate dream, also known as \"fondant au chocolat.\" It's a small cake with a crisp crust and a liquid, hot center. At \"Kocie Oczku\", we serve it warm, often with a scoop of vanilla ice cream, creating an unforgettable temperature contrast."
+  },
+  {
+    "id": "RedVelvetCake", "type": "pastry", "category": "cake", "price": 17.00,
+    "name_pl": "Ciasto Red Velvet", "name_en": "Red Velvet Cake",
+    "description_pl": "Aksamitne ciasto o charakterystycznym, głębokim czerwonym kolorze i delikatnym kakaowym smaku. Jego historia sięga epoki wiktoriańskiej. Przekładane jest puszystym kremem na bazie serka śmietankowego, co tworzy idealnie zbalansowaną, wilgotną i efektowną całość.",
+    "description_en": "A velvety cake with a distinctive deep red color and a mild cocoa flavor. Its history dates back to the Victorian era. It is layered with a fluffy cream cheese frosting, creating a perfectly balanced, moist, and stunning dessert."
+  },
+  {
+    "id": "CarrotCake", "type": "pastry", "category": "cake", "price": 16.00,
+    "name_pl": "Ciasto Marchewkowe", "name_en": "Carrot Cake",
+    "description_pl": "Jeden z ulubieńców naszych gości. Wilgotne, korzenne ciasto z dodatkiem świeżo startej marchewki i orzechów włoskich. Przełożone kremem z serka śmietankowego z nutą cytryny. To ciasto udowadnia, że warzywa w deserach to strzał w dziesiątkę!",
+    "description_en": "A customer favorite. A moist, spiced cake made with freshly grated carrots and walnuts. Layered with a cream cheese frosting with a hint of lemon. This cake proves that vegetables in desserts are a fantastic idea!"
+  },
+  {
+    "id": "Tiramisu", "type": "pastry", "category": "cake", "price": 18.00,
+    "name_pl": "Tiramisu", "name_en": "Tiramisu",
+    "description_pl": "Włoski klasyk oznaczający \"podnieś mnie\". To deser bez pieczenia, złożony z biszkoptów nasączonych mocnym espresso i likierem amaretto. Przekładany jest aksamitnym kremem z serka mascarpone i jajek, a całość posypana jest gorzkim kakao.",
+    "description_en": "An Italian classic meaning \"pick me up.\" It's a no-bake dessert made of ladyfingers dipped in strong espresso and amaretto liqueur. Layered with a velvety cream of mascarpone and eggs, and dusted with bitter cocoa powder."
+  },
+  {
+    "id": "Brownie", "type": "pastry", "category": "cake", "price": 13.00,
+    "name_pl": "Brownie", "name_en": "Brownie",
+    "description_pl": "Intensywnie czekoladowe ciasto, które powstało w Stanach Zjednoczonych pod koniec XIX wieku. Nasze brownie jest dokładnie takie, jakie powinno być: wilgotne i \"zakalcowate\" (fudgy) w środku, z lekko popękaną skórką na wierzchu. Idealne z filiżanką espresso.",
+    "description_en": "An intensely chocolatey cake that originated in the United States in the late 19th century. Our brownie is exactly as it should be: moist and fudgy in the center, with a slightly cracked crust on top. Perfect with a cup of espresso."
+  },
+  {
+    "id": "Croissant", "type": "pastry", "category": "sweet", "price": 9.00,
+    "name_pl": "Croissant", "name_en": "Croissant",
+    "description_pl": "Symbol francuskiego śniadania, choć jego korzenie sięgają Austrii. Nasz croissant jest wypiekany na miejscu, na bazie prawdziwego masła. Charakteryzuje się listkową strukturą – chrupiący na zewnątrz i delikatny w środku. Idealny sam lub z konfiturą.",
+    "description_en": "A symbol of French breakfast, though its roots are in Austria. Our croissant is baked on-site using real butter. It features a flaky, layered texture—crispy on the outside and delicate on the inside. Perfect on its own or with jam."
+  },
+  {
+    "id": "LemonTart", "type": "pastry", "category": "sweet", "price": 17.00,
+    "name_pl": "Tarta Cytrynowa", "name_en": "Lemon Tart",
+    "description_pl": "Elegancki francuski deser składający się z kruchego maślanego spodu wypełnionego intensywnie cytrynowym kremem (lemon curd). Wierzch często dekorujemy opalaną bezą włoską, która dodaje słodyczy i równoważy kwasowość cytryny. Doskonałe orzeźwienie.",
+    "description_en": "An elegant French dessert consisting of a buttery shortcrust base filled with intense lemon curd. We often top it with torched Italian meringue, which adds sweetness and balances the tartness of the lemon. A perfect refreshment."
+  },
+  {
+    "id": "Macarons", "type": "pastry", "category": "cookie", "price": 7.00,
+    "name_pl": "Makaroniki", "name_en": "Macarons",
+    "description_pl": "Małe francuskie ciasteczka bezowe na bazie mielonych migdałów. Delikatne i chrupiące z zewnątrz, z miękkim wnętrzem i kremowym nadzieniem. W \"Kocim Oczku\" oferujemy je w różnych smakach, od klasycznej wanilii po egzotyczną marakuję.",
+    "description_en": "Small French meringue cookies made from ground almonds. Delicate and crisp on the outside, with a soft interior and a creamy filling. At \"Kocie Oczko\", we offer them in various flavors, from classic vanilla to exotic passion fruit."
+  },
+  {
+    "id": "ApplePie", "type": "pastry", "category": "cake", "price": 16.00,
+    "name_pl": "Szarlotka", "name_en": "Apple Pie",
+    "description_pl": "Klasyczna domowa szarlotka, która nigdy się nie nudzi. Kruche ciasto wypełnione po brzegi prażonymi jabłkami z cynamonem i goździkami. W naszej kawiarni serwujemy ją na ciepło, z gałką lodów waniliowych i kleksem bitej śmietany.",
+    "description_en": "A classic homemade apple pie that never gets old. A shortcrust pastry filled to the brim with roasted apples, cinnamon, and cloves. In our café, we serve it warm with a scoop of vanilla ice cream and a dollop of whipped cream."
+  },
+  {
+    "id": "PannaCotta", "type": "pastry", "category": "sweet", "price": 15.00,
+    "name_pl": "Panna Cotta", "name_en": "Panna Cotta",
+    "description_pl": "Włoski deser oznaczający \"gotowaną śmietankę\". To aksamitny, śmietankowy deser zestalony żelatyną i aromatyzowany prawdziwą wanilią. Jego delikatny smak idealnie komponuje się z musem z kwaśnych owoców, np. malin lub marakui, który serwujemy na wierzchu.",
+    "description_en": "An Italian dessert meaning \"cooked cream.\" It's a velvety, creamy dessert set with gelatin and flavored with real vanilla. Its delicate taste pairs perfectly with a tart fruit coulis, like raspberry or passion fruit, which we serve on top."
+  },
+  {
+    "id": "DanishPastry", "type": "pastry", "category": "sweet", "price": 12.00,
+    "name_pl": "Ciastko Duńskie", "name_en": "Danish Pastry",
+    "description_pl": "Chrupiące, wielowarstwowe ciastko z ciasta francuskiego (laminowanego), które jest specjalnością Danii. Wypełnione jest kremem budyniowym, owocami lub serem. Idealne na słodkie śniadanie lub jako dodatek do popołudniowej kawy.",
+    "description_en": "A crispy, multilayered pastry made from laminated dough, a specialty of Denmark. It is filled with custard, fruit, or cheese. Perfect for a sweet breakfast or as a treat with your afternoon coffee."
+  },
+  {
+    "id": "Eclair", "type": "pastry", "category": "sweet", "price": 13.00,
+    "name_pl": "Ekler", "name_en": "Eclair",
+    "description_pl": "Klasyczny francuski wypiek z ciasta parzonego, o podłużnym kształcie. Nazwa \"eclair\" oznacza \"błyskawicę\", co ma odzwierciedlać szybkość, z jaką znika z talerza! Wypełniony jest kremem (np. waniliowym lub czekoladowym) i polany lukrem lub czekoladą.",
+    "description_en": "A classic French pastry made from choux dough, with an oblong shape. The name \"eclair\" means \"lightning,\" reflecting how quickly it disappears from the plate! It's filled with cream (e.g., vanilla or chocolate) and topped with icing or chocolate."
+  },
+  {
+    "id": "Muffin", "type": "pastry", "category": "sweet", "price": 10.00,
+    "name_pl": "Muffinka", "name_en": "Muffin",
+    "description_pl": "Puszysta i wilgotna babeczka, idealna na szybką przekąskę. Nasze muffinki wypiekamy na miejscu, oferując różne warianty: z kawałkami czekolady, jagodami lub bakaliami. Zawsze miękkie i pełne smaku, świetnie pasują do kawy przelewowej.",
+    "description_en": "A fluffy and moist cupcake, perfect for a quick snack. We bake our muffins on-site, offering various options: with chocolate chips, blueberries, or nuts. Always soft and full of flavor, they pair wonderfully with filter coffee."
+  },
+  {
+    "id": "Scone", "type": "pastry", "category": "sweet", "price": 11.00,
+    "name_pl": "Scone", "name_en": "Scone",
+    "description_pl": "Tradycyjny brytyjski wypiek, będący podstawą \"cream tea\". To szybkie ciastko na bazie masła i maślanki, o lekko kruchej teksturze. W \"Kocim Oczku\" podajemy je klasycznie, z gęstą śmietaną (clotted cream) i dżemem truskawkowym.",
+    "description_en": "A traditional British bake, a staple of \"cream tea.\" It's a quick bread made with butter and buttermilk, featuring a slightly crumbly texture. At \"Kocie Oczku\", we serve them classically with clotted cream and strawberry jam."
+  },
+  {
+    "id": "Cupcake", "type": "pastry", "category": "cake", "price": 12.00,
+    "name_pl": "Cupcake", "name_en": "Cupcake",
+    "description_pl": "Małe ciastko, które jest \"tortem w miniaturce\". Nasze babeczki to miękkie, waniliowe lub czekoladowe ciasto, zwieńczone hojną porcją kremu maślanego lub kremu z serka. Każda jest ręcznie dekorowana, stanowiąc małe dzieło sztuki.",
+    "description_en": "A small cake that is a \"miniature cake.\" Our cupcakes are soft vanilla or chocolate cake, topped with a generous portion of buttercream or cream cheese frosting. Each one is hand-decorated, making it a little work of art."
+  },
+  {
+    "id": "Donut", "type": "pastry", "category": "sweet", "price": 9.00,
+    "name_pl": "Donut", "name_en": "Donut",
+    "description_pl": "Puszyste, smażone na głębokim tłuszczu ciastko w kształcie oponki, popularne na całym świecie. Nasze donuty przygotowujemy codziennie, oferując je z różnorodnymi polewami i posypkami. Od klasycznego lukru po polewę czekoladową z orzeszkami.",
+    "description_en": "A fluffy, deep-fried, ring-shaped pastry, popular worldwide. We prepare our donuts fresh daily, offering them with a variety of glazes and toppings. From classic sugar glaze to chocolate icing with nuts."
+  },
+  {
+    "id": "Churros", "type": "pastry", "category": "sweet", "price": 15.00,
+    "name_pl": "Churros", "name_en": "Churros",
+    "description_pl": "Tradycyjny hiszpański i portugalski przysmak z ciasta parzonego, smażony na głębokim tłuszczu. Mają charakterystyczny, gwiaździsty przekrój. W \"Kocim Oczku\" serwujemy je gorące, posypane cukrem z cynamonem i z filiżanką gęstej, gorącej czekolady do maczania.",
+    "description_en": "A traditional Spanish and Portuguese treat made from choux pastry, deep-fried to a crisp. They have a distinctive star shape. At \"Kocie Oczku\", we serve them hot, dusted with cinnamon sugar, and with a cup of thick hot chocolate for dipping."
+  },
+  {
+    "id": "FruitTart", "type": "pastry", "category": "sweet", "price": 18.00,
+    "name_pl": "Tarta owocowa", "name_en": "Fruit Tart",
+    "description_pl": "Piękna i kolorowa tarta na kruchym maślanym spodzie, wypełniona lekkim kremem budyniowym (crème pâtissière). Wierzch dekorujemy sezonowymi, świeżymi owocami, takimi jak truskawki, maliny i borówki. Lekka, świeża i idealna do popołudniowej herbaty.",
+    "description_en": "A beautiful and colorful tart on a buttery shortcrust base, filled with light pastry cream (crème pâtissière). We decorate the top with seasonal fresh fruits like strawberries, raspberries, and blueberries. Light, fresh, and perfect for afternoon tea."
+  },
+  {
+    "id": "CremeBrulee", "type": "pastry", "category": "sweet", "price": 16.00,
+    "name_pl": "Creme Brulee", "name_en": "Creme Brulee",
+    "description_pl": "Francuski deser-legenda. Składa się z bogatego, waniliowego kremu na bazie śmietanki i żółtek, zapiekanego w kokilce. Tuż przed podaniem posypujemy go cukrem i karmelizujemy palnikiem, tworząc chrupiącą, szklaną skorupkę. Przełamanie jej łyżeczką to czysta przyjemność.",
+    "description_en": "A legendary French dessert. It consists of a rich, vanilla-flavored custard base made with cream and egg yolks, baked in a ramekin. Just before serving, we sprinkle it with sugar and caramelize it with a torch, creating a crispy, glass-like crust. Breaking it with a spoon is pure joy."
+  }
+]
