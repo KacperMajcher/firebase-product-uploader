@@ -108,7 +108,7 @@ This project is separated into user-editable files and the core script logic:
 
 2.  **Install the required library:**
     ```bash
-    pip install firebase-admin
+    pip install -r requirements.txt
     ```
 
 3.  **Get Your Service Account Key:**
